@@ -6,5 +6,6 @@
 | 11th Oct 2023 | Paul Andrew  | [2023-10-11](./2023-10-11) | [https://www.meetup.com/eastmidlandsdata/events/295200392/](https://www.meetup.com/eastmidlandsdata/events/295200392/) |
 | 8th Nov 2023 | Ian Pike  | [2023-11-08](./2023-11-08) | [https://www.meetup.com/eastmidlandsdata/events/295320225/](https://www.meetup.com/eastmidlandsdata/events/295320225/) |
 | 13th Dec 2023 | Pete Gallagher | [2023-12-13](./2023-12-13) | [https://www.meetup.com/eastmidlandsdata/events/295320436/](https://www.meetup.com/eastmidlandsdata/events/295320436/) |
+| 10th Jan 2024 | Olivier Van Steenlandt | [2024-01-10](./2024-01-10) | [https://www.meetup.com/eastmidlandsdata/events/296674920/](https://www.meetup.com/eastmidlandsdata/events/296674920/) |
 
 
