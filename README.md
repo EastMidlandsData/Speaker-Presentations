@@ -8,3 +8,4 @@
 | 13th Dec 2023 | Pete Gallagher | [2023-12-13](./2023-12-13) | [https://www.meetup.com/eastmidlandsdata/events/295320436/](https://www.meetup.com/eastmidlandsdata/events/295320436/) |
 | 10th Jan 2024 | Olivier Van Steenlandt | [2024-01-10](./2024-01-10) | [https://www.meetup.com/eastmidlandsdata/events/296674920/](https://www.meetup.com/eastmidlandsdata/events/296674920/) |
 | 15th Feb 2024 | Laura Graham-Brown | [2024-02-15](./2024-02-15) | [https://www.meetup.com/eastmidlandsdata/events/296945932/](https://www.meetup.com/eastmidlandsdata/events/296945932/) |
+| 13th Mar 2024 | Chris Webb | [2024-03-13](./2024-03-13) | [https://www.meetup.com/eastmidlandsdata/events/296987917/](https://www.meetup.com/eastmidlandsdata/events/296987917/) |
