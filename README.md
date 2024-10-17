@@ -11,3 +11,5 @@
 | 13th Mar 2024 | Chris Webb | [2024-03-13](./2024-03-13) | [https://www.meetup.com/eastmidlandsdata/events/296987917/](https://www.meetup.com/eastmidlandsdata/events/296987917/) |
 |  Apr 2024 | Andrew Pruski | [2024-04-10](./2024-04-10) | [https://www.meetup.com/eastmidlandsdata/events/296988131/](https://www.meetup.com/eastmidlandsdata/events/296988131/) |
 | 8th May 2024 | Stuart Moore | [2024-05-08](./2024-05-08) | [https://www.meetup.com/eastmidlandsdata/events/297232180/](https://www.meetup.com/eastmidlandsdata/events/297232180/) |
+| 11th Sept 2024 | Erland Sommarskog | [2024-05-08](./2024-09-11) | [https://www.meetup.com/eastmidlandsdata/events/299651575/](https://www.meetup.com/eastmidlandsdata/events/299651575/) |
+| 16th Oct 2024 | James Dales | [2024-10-16](./2024-10-16) | [https://www.meetup.com/eastmidlandsdata/events/299651475/](https://www.meetup.com/eastmidlandsdata/events/299651475/) |
